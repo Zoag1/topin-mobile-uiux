@@ -14,14 +14,14 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
   1. Splash Screen:<br>
   [🖼️ Lihat Splash Screen.png](Splash%20Screen.png)
   2. Login Screen:<br>
-  [🖼️ Lihat Login Screen.png](Login%20Screen.png)
+  [🖼️ Lihat Login Screen.png](Login%20Screen.png) <br>
   [🖼️ Lihat Login Screen (2).png](Login%20Screen%20%282%29.png)
   4. Home Screen:<br>
   [🖼️ Lihat Home Screen.png](Home%20Screen.png)
   5. Place Screen:<br>
   [🖼️ Lihat Place Screen.png](Place%20Screen.png)
   6. Favorite Screen:<br>
-  [🖼️ Lihat Favorite Screen.png](Favorite%20Screen.png)
+  [🖼️ Lihat Favorite Screen.png](Favorite%20Screen.png)<br>
   [🖼️ Lihat Favorite Screen (2).png](Favorite%20Screen%20%282%29.png)
 
 ### Kontak
