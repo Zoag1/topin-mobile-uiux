@@ -8,21 +8,21 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
 
 ### Dokumentasi Desain & Prototipe (Figma)
   1. Video Alur Prototipe Interaktif <br>
-     [📹 Lihat Video Prototipe Interaktif (prototipe.mp4)](prototipe.mp4)
+     [📹 Lihat Video Prototipe Interaktif](prototipe.mp4)
 
 ### Aset Tampilan Layar (UI Screens)
   1. Splash Screen:<br>
-  [🖼️ Lihat Splash Screen.png](Splash%20Screen.png)
+  [🖼️ Lihat Splash Screen](Splash%20Screen.png)
   2. Login Screen:<br>
-  [🖼️ Lihat Login Screen.png](Login%20Screen.png) <br>
-  [🖼️ Lihat Login Screen (2).png](Login%20Screen%20%282%29.png)
+  [🖼️ Lihat Login Screen](Login%20Screen.png) <br>
+  [🖼️ Lihat Login Screen (2)](Login%20Screen%20%282%29.png)
   4. Home Screen:<br>
-  [🖼️ Lihat Home Screen.png](Home%20Screen.png)
+  [🖼️ Lihat Home Screen](Home%20Screen.png)
   5. Place Screen:<br>
   [🖼️ Lihat Place Screen.png](Place%20Screen.png)
   6. Favorite Screen:<br>
-  [🖼️ Lihat Favorite Screen.png](Favorite%20Screen.png)<br>
-  [🖼️ Lihat Favorite Screen (2).png](Favorite%20Screen%20%282%29.png)
+  [🖼️ Lihat Favorite Screen](Favorite%20Screen.png)<br>
+  [🖼️ Lihat Favorite Screen (2)](Favorite%20Screen%20%282%29.png)
 
 ### Kontak
 Untuk pertanyaan, masukan, atau diskusi lebih lanjut mengenai desain ini, Anda dapat menghubungi saya melalui:
